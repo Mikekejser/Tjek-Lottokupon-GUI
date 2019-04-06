@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from PyQt5 import QtWidgets
-from vindue_gui import Ui_MainWindow
+from vindue import Ui_MainWindow
 import sys
 
 
